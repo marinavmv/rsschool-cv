@@ -28,5 +28,7 @@ University: *Kharkiv National Aerospace University, Informational Technology of 
 Courses: 
 *	CS50 lectures 
 *	HTML Academy 
+*	JavaScript Manual on learnjavascript.ru (In progress)
+*	RS Schools Course «JavaScript/Front-end» (In progress). 
 ## English
 **A2** (I had been practicing English, when I worked in the USA as an exchange student)
